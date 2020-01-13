@@ -1,0 +1,30 @@
+{
+  "name": "kir-school-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geschoss/kir-school-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Geschoss/kir-school-practice/issues"
+  },
+  "homepage": "https://github.com/Geschoss/kir-school-practice#readme",
+  "devDependencies": {
+    "@testing-library/react": "^9.4.0"
+  },
+  "dependencies": {
+    "@babel/core": "^7.8.0",
+    "@babel/polyfill": "^7.8.0",
+    "@babel/preset-env": "^7.8.2",
+    "@babel/register": "^7.8.0",
+    "ava": "^2.4.0"
+  }
+}
